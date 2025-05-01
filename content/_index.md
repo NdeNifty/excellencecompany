@@ -50,7 +50,7 @@ services:
     button:
       enable: true
       label: Try RapidPunter Now
-      link: /contact
+      link: "https://rapidpunter.com"
   
   - title: "A Team Built on Expertise and Innovation"
     content: "Our team of skilled traders, commerce experts, and developers delivers exceptional results. Whether managing global transactions or building custom software, we combine industry knowledge with cutting-edge technology."
