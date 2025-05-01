@@ -25,7 +25,8 @@ const Header = () => {
       <nav className="navbar container">
         {/* logo */}
         <div className="order-0">
-          <Logo src={logo} />
+          <h3>Excelence Company</h3>
+          {/* <Logo src={logo} /> */}
         </div>
 
         {/* navbar toggler */}
